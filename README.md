@@ -1,4 +1,4 @@
-# Firearm-database #
+# Firearm Data #
 Data base for firearm and gun violence related data
 
 ## Mass shootings ##
@@ -28,7 +28,7 @@ If used in paper, cite and provide link to github.
 ## Robberies with guns ##
 
 
-# Demographics data #
+# Socioeconomic Data #
 
 ## population size ##
 
