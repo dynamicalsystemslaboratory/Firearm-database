@@ -26,3 +26,10 @@ Dataset *Number of Suicides with guns (1998-2016, FBI).csv* was collected from <
 If used in paper, cite and provide link to github.
 
 ## Robberies with guns ##
+
+
+# Demographics data #
+
+## population size ##
+
+## race ##
