@@ -1,6 +1,7 @@
 # Firearm Data #
 Data base for firearm and gun violence related data
 
+Data were retrieved from FBI NICS (https://www.fbi.gov/services/cjis/nics). Daily NICS data was recently published and is available at a national level. 
 ## Mass shootings ##
 
 
