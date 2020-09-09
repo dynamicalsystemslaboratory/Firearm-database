@@ -3,7 +3,7 @@ Data base for firearm and gun violence related data
 
 Data were retrieved from FBI NICS (https://www.fbi.gov/services/cjis/nics). Daily NICS data was recently published and is available at a national level. 
 ## Mass shootings ##
-
+The data were retrieved from the Washington Post database for mass shootings (https://www.washingtonpost.com/graphics/2018/national/mass-shootings-in-america/). Datatest *Mass shootings data state by state 1999-2019 Washington Post corrected data.csv* contains data from 1999-2019. Dates for 5 data points were corrected (highlighted in the csv file) and data further divided for each state. Specific data on location, victims killed, victims injured, total victims, number of guns used, and number of shooters (dead/alive) is available.
 
 ## Gun ownership ##
 These data were retrieved from Gallup’s GPSS Crime surveys between 2000-2019.
