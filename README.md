@@ -61,5 +61,5 @@ These data were retrieved from the FBI Uniform Crime Reports between 1999-2018.
 # Socioeconomic Data #
 
 ## population size ##
+Data retrieved from the US Census Bureau
 
-## race ##
