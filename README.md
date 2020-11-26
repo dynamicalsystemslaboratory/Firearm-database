@@ -64,7 +64,7 @@ These data were retrieved from the FBI Uniform Crime Reports between 1999-2018.
 Data retrieved from the US Census Bureau
 
 ## Unemployment rate, Unemployment (Raw numbers), Employment, and Labor Force ## 
-Data retrieved from US Bureau of Labor Statistics Data. For additional series if required ( https://data.bls.gov/cgi-bin/dsrv?la )
+Data retrieved from US Bureau of Labor Statistics Data. For additional series if required ( https://data.bls.gov/cgi-bin/dsrv?la ).
 File BLS Data - Seasonally adjusted contains monthly seasonally adjusted data for all states from 1999 - 2020. 
 File BLS Data - Not seasonally adjusted contains monthly unadjusted data for all states from 1999 - 2020.
 
