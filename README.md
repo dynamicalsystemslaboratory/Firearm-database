@@ -73,3 +73,10 @@ File "BLS Data - Not seasonally adjusted" contains monthly unadjusted data for a
 
 If any questions or concerns please send an email to rrs441@nyu.edu
 
+# State Laws # 
+
+The file "State_laws" contains 133 firearm-related laws in each state from 1991 to 2020 (source: Firearm Laws Project).
+
+The file "state_laws_code" contains detailed explanation of each laws (source: Firearm Laws Project).
+
+
