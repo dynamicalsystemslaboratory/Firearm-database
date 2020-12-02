@@ -58,6 +58,8 @@ These data sets were retrieved from Inter-university Consortium for Political an
 
 ## Arrests for weapon carrying ##
 These data were retrieved from the FBI Uniform Crime Reports between 1999-2018.
+The folder 'Arrests-data' contains arrests data for all reasons and arrests made for possesing, carrying etc.
+Please be mindful that data is missing for one or two states in each file. 
 
 
 
